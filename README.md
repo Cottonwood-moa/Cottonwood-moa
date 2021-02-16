@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### 반갑습니다. 👋
+- 🌱 풀스택 개발자가 되기 위해 공부중입니다.
+- 📫 https://blog.naver.com/blog_geon 블로그
 <!--
 **Cottonwood-moa/Cottonwood-moa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
