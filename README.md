@@ -1,4 +1,4 @@
-### 반갑습니다. 👋
+### 안녕하세요! / Hi, there 👋
 - 🌱 풀스택 개발자가 되기 위해 공부중입니다.
 - 📫 https://blog.naver.com/blog_geon 블로그
 <!--
