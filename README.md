@@ -1,5 +1,5 @@
 ### 안녕하세요! / Hi, there 👋
-- 🌱 풀스택 개발자가 되기 위해 공부중입니다.
+- 🌱 개발자가 되기 위해 공부중입니다.
 - 📫 https://blog.naver.com/blog_geon 블로그
 - Stranger's it doesn't matter where are you from, how old or young you are, how you look or whatever. You are beautiful, kind soul, golden heart. I♥️u all.
 Hope Your life be magical.
