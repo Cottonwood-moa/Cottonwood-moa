@@ -1,6 +1,7 @@
 ### 안녕하세요! / Hi, there 👋
 - 🌱 개발자가 되기 위해 공부중입니다.
-- 📫 https://blog.naver.com/blog_geon 블로그
+- 👯https://cottonwood-moa.tistory.com/티스토리 블로그
+- 📫 https://blog.naver.com/blog_geon 네이버블로그
 - Stranger's it doesn't matter where are you from, how old or young you are, how you look or whatever. You are beautiful, kind soul, golden heart. I♥️u all.
 Hope Your life be magical.
 Hope u nvr give up in life.
