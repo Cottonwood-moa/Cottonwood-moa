@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cottonwood-moa)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 💬EX💬
+<!-- ## 💬EX💬
 
 
 |기간|내용|
@@ -16,7 +16,7 @@
 <h3 align="left">📫 Join 📫 </h3>&nbsp
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:geon0529@gmail.com)](mailto:geon0529@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cottonwood-moa.tistory.com/)](https://cottonwood-moa.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cottonwood-moa.tistory.com/)](https://cottonwood-moa.tistory.com/) -->
 
 <!--
 **Cottonwood-moa/Cottonwood-moa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
