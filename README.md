@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20Cottonwood:%20&height=300&fontSize=50&animation=twinkling&fontColor=black&fontAlign=20)
 # 안녕하세요! / Hi, there  👋
-#### 🌱 개발자가 되기 위해 공부중입니다.
+#### 🌱 성장하는 개발자
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cottonwood-moa)](https://github.com/anuraghazra/github-readme-stats)
 
