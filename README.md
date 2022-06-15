@@ -2,8 +2,13 @@
 # 안녕하세요! / Hi, there  👋
 #### 🌱 새싹 개발자 입니다.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cottonwood-moa)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cottonwood-moa)](https://github.com/anuraghazra/github-readme-stats)  
+  
+|기간|내용|
+| ------ | ------ |
+| 2014-03-03 ~ 2021-02-19 | 경북대학교 졸업 |
+| 2021-05-31 ~ 2021-08-13 | 멋쟁이 사자처럼 |
+| 2022-06-08 ~  | 투라인코드 |
 
 <!-- ## 💬EX💬
 
