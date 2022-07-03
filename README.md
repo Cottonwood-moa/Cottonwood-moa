@@ -10,10 +10,11 @@
 | 2021-05-31 ~ 2021-08-13 | 멋쟁이 사자처럼 |
 | 2022-06-08 ~  | 투라인코드 |
 
-[![image](https://user-images.githubusercontent.com/79053495/177042559-312a5799-4fb5-4a87-9baa-14d5e9882fc2.png)](https://modu.vercel.app/)
+[![image](https://user-images.githubusercontent.com/79053495/177042674-3f7e767a-0e80-4ba7-a814-20316c9ff5ff.png)](https://modu.vercel.app/)
 
 <!-- ## 💬EX💬
 ![image](https://user-images.githubusercontent.com/79053495/177042559-312a5799-4fb5-4a87-9baa-14d5e9882fc2.png)
+![image](https://user-images.githubusercontent.com/79053495/177042674-3f7e767a-0e80-4ba7-a814-20316c9ff5ff.png)
 
 
 |기간|내용|
