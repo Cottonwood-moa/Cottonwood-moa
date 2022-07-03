@@ -11,12 +11,11 @@
 | 2022-06-08 ~  | 투라인코드 |
 
 [![image](https://user-images.githubusercontent.com/79053495/177042964-957a8c3b-1bd5-48e5-bd25-25f55dafd5fb.png)](https://modu.vercel.app/)
-[![image](https://user-images.githubusercontent.com/79053495/177042964-957a8c3b-1bd5-48e5-bd25-25f55dafd5fb.png)](https://modu.vercel.app/)
-[![image](https://user-images.githubusercontent.com/79053495/177042804-1b4a8329-cc4c-4d89-86d5-9e1942497da4.png)](https://parkgeonwoo-portfolio.netlify.app/)
+[![image](https://user-images.githubusercontent.com/79053495/177043000-b37ccc75-8de6-4551-bbb8-fa6d81fbfc94.png)](https://parkgeonwoo-portfolio.netlify.app/)
+
 <!-- ## 💬EX💬
+![image](https://user-images.githubusercontent.com/79053495/177043000-b37ccc75-8de6-4551-bbb8-fa6d81fbfc94.png)
 
-
-![image](https://user-images.githubusercontent.com/79053495/177042964-957a8c3b-1bd5-48e5-bd25-25f55dafd5fb.png)
 
 
 |기간|내용|
